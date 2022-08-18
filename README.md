@@ -4,7 +4,6 @@
 ## About me
 
 I am interested in web development. So I am studying about that <br/>
-<--! :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> -->
 :mailbox_with_mail: How to reach me : mswork0616@gmail.com
 
 ## Interest
